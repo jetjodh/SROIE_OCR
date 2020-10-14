@@ -1,0 +1,348 @@
+[1/50000] Train loss: 35.51920, Valid loss: 57.46315, Elapsed_time: 3.13600
+Current_accuracy : 0.000, Current_norm_ED  : 0.01
+Best_accuracy    : 0.000, Best_norm_ED     : 0.01
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+QTY                       | 47J]#J                    | 0.0000	False
+: 012-2060 778            | +J7J7J#nZ#J#J#J5J         | 0.0000	False
+PLANNING MAGNET 30MM#     | +7ZJZ7J7J7Z+7J            | 0.0000	False
+0.70                      | +J7#x7#7n+e               | 0.0000	False
+SR I00100000169- VEGGIES  | 7#7]7]7"7"7"+7J           | 0.0000	False
+--------------------------------------------------------------------------------
+[1/50000] Train loss: 60.83965, Valid loss: 58.54655, Elapsed_time: 3.01667
+Current_accuracy : 0.000, Current_norm_ED  : 0.00
+Best_accuracy    : 0.000, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+TIME: 20:18:00            | mw+                       | 0.0000	False
+3                         | m<*wpm+p                  | 0.0000	False
+GST ID: 000381399040      | *+*+*+*+r                 | 0.0000	False
+CR-CHOCLT                 | <*+*<w*+w+*+w*Q*w+        | 0.0000	False
+SR                        | *rw+                      | 0.0000	False
+--------------------------------------------------------------------------------
+[1/50000] Train loss: 51.12602, Valid loss: 54.64433, Elapsed_time: 3.01901
+Current_accuracy : 0.000, Current_norm_ED  : 0.02
+Best_accuracy    : 0.000, Best_norm_ED     : 0.02
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+O.C. WHITE                | 3I3I!I3!I!I!3!3!3!3!3!    | 0.0000	False
+SUB-TOTAL                 | V!I3!3!3!                 | 0.0000	False
+GST:                      | 3!I!                      | 0.0000	False
+O.C JUMBO                 | 3I!I!I3!                  | 0.0000	False
+COUPON                    | VI!I!I3I!I3I3IgI!         | 0.0000	False
+--------------------------------------------------------------------------------
+[1/50000] Train loss: 53.38290, Valid loss: 58.58842, Elapsed_time: 3.07588
+Current_accuracy : 0.000, Current_norm_ED  : 0.00
+Best_accuracy    : 0.000, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+TO VIEW OUR PERSONAL DATA | """"""""""                | 0.0000	False
+RECEIPT #: CS00224314     | +""""""""""               | 0.0000	False
+THE RECIPIENT OF GARDENIA'S PRODUCTS IS | """"""                    | 0.0000	False
+4.26                      | +""""""                   | 0.0000	False
+DD: 24/08/2017            | Q"""""""""""\>c\c"i"      | 0.0000	False
+--------------------------------------------------------------------------------
+[2000/50000] Train loss: 4.09627, Valid loss: 3.30426, Elapsed_time: 306.72082
+Current_accuracy : 3.685, Current_norm_ED  : 0.10
+Best_accuracy    : 3.685, Best_norm_ED     : 0.10
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+0                         | 0                         | 0.2408	True
+GST ANALYSIS              | 0                         | 0.0000	False
+3.70                      | .0                        | 0.0037	False
+*S                        | 0                         | 0.0688	False
+ISS                       | 0                         | 0.0163	False
+--------------------------------------------------------------------------------
+[4000/50000] Train loss: 3.00380, Valid loss: 2.93051, Elapsed_time: 588.74183
+Current_accuracy : 5.081, Current_norm_ED  : 0.17
+Best_accuracy    : 5.081, Best_norm_ED     : 0.17
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+5                         | 0                         | 0.0981	False
+THE RECIPIENT OF GARDENIA'S PRODUCTS IS | E                         | 0.0000	False
+REQUIRED TO MAKE NECESSARY ADJUSTMENTS TO ITS | R                         | 0.0000	False
+ROUND:                    | :                         | 0.0000	False
+COUPON DISCOUNT           |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[6000/50000] Train loss: 2.64970, Valid loss: 2.63563, Elapsed_time: 870.30050
+Current_accuracy : 7.342, Current_norm_ED  : 0.24
+Best_accuracy    : 7.342, Best_norm_ED     : 0.24
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+44.90                     | .0                        | 0.0251	False
+2.78                      | .2                        | 0.0019	False
+COUPON DISCOUNT           |  E                        | 0.0000	False
+SUBTOTAL                  | E                         | 0.0000	False
+12.80                     | 1..0                      | 0.0009	False
+--------------------------------------------------------------------------------
+[8000/50000] Train loss: 2.37148, Valid loss: 2.40088, Elapsed_time: 1154.30974
+Current_accuracy : 8.710, Current_norm_ED  : 0.29
+Best_accuracy    : 8.710, Best_norm_ED     : 0.29
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+VEGETABLES                | SR                        | 0.0000	False
+SHOPPING HOURS            | S E                       | 0.0000	False
+11.16                     | 1.1R                      | 0.0001	False
+CHANGE AMT                |  :                        | 0.0000	False
+QTY                       | TTR                       | 0.0026	False
+--------------------------------------------------------------------------------
+[10000/50000] Train loss: 2.12617, Valid loss: 2.20906, Elapsed_time: 1440.15342
+Current_accuracy : 10.804, Current_norm_ED  : 0.35
+Best_accuracy    : 10.804, Best_norm_ED     : 0.35
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+26.79                     | .8                        | 0.0005	False
+B/L POINTS : 0            | 5   0                     | 0.0000	False
+RECEIVED ABOVE GOODS IN GOOD ORDER CONDITION. |   E                       | 0.0000	False
+TOTAL RM                  | T R                       | 0.0002	False
+6.00                      | 5.00                      | 0.0200	False
+--------------------------------------------------------------------------------
+[12000/50000] Train loss: 1.89313, Valid loss: 1.97982, Elapsed_time: 1726.53332
+Current_accuracy : 14.880, Current_norm_ED  : 0.42
+Best_accuracy    : 14.880, Best_norm_ED     : 0.42
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+GST ID: 000381399040      | S1 000                    | 0.0000	False
+: KJ1-248350              | : 1250                    | 0.0000	False
+SR                        | SR                        | 0.2620	True
+ORDER TIME : 13:14:55     | A  : 34                   | 0.0000	False
+3.80                      | 3.0                       | 0.0621	False
+--------------------------------------------------------------------------------
+[14000/50000] Train loss: 1.67331, Valid loss: 1.77920, Elapsed_time: 2012.39192
+Current_accuracy : 17.979, Current_norm_ED  : 0.48
+Best_accuracy    : 17.979, Best_norm_ED     : 0.48
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+TAMPOI                    | TA0                       | 0.0000	False
+0                         | 0                         | 0.9018	True
+SUB-TOTAL                 | STT)                      | 0.0013	False
+GST:                      | GST:                      | 0.0099	True
+2.40                      | )                         | 0.0230	False
+--------------------------------------------------------------------------------
+[16000/50000] Train loss: 1.46776, Valid loss: 1.58025, Elapsed_time: 2298.06662
+Current_accuracy : 23.227, Current_norm_ED  : 0.58
+Best_accuracy    : 23.227, Best_norm_ED     : 0.58
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+CHANGE                    | CAGM                      | 0.0006	False
+ORDER                     | EE                        | 0.0011	False
+2.90 S                    | 2.90 S                    | 0.0129	True
+13.90                     | 13.90                     | 0.1006	True
+46.54                     | 46.54                     | 0.0211	True
+--------------------------------------------------------------------------------
+[18000/50000] Train loss: 1.28592, Valid loss: 1.40459, Elapsed_time: 2583.09296
+Current_accuracy : 26.689, Current_norm_ED  : 0.63
+Best_accuracy    : 26.689, Best_norm_ED     : 0.63
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+25.00 SR                  | 25.000 SE                 | 0.0047	False
+DATE: 17/08/2017          | OTE 1708/202              | 0.0000	False
+TAX INVOICE / ADJUSTMENT NOTE | TAL INOE AOSTET OE        | 0.0000	False
+31.10                     | 31.10                     | 0.1254	True
+0.72                      | 0.72                      | 0.0408	True
+--------------------------------------------------------------------------------
+[20000/50000] Train loss: 1.13176, Valid loss: 1.28075, Elapsed_time: 2869.81408
+Current_accuracy : 29.620, Current_norm_ED  : 0.66
+Best_accuracy    : 29.620, Best_norm_ED     : 0.66
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+CASHIER                   | CASEE                     | 0.0035	False
+4.26                      | 4.26                      | 0.0804	True
+TOTAL 6% SUPPLIES (INC. GST): | TAL G SALE C. GT)         | 0.0000	False
+7.40                      | 7.40                      | 0.1071	True
+*S                        | *R                        | 0.0328	False
+--------------------------------------------------------------------------------
+[22000/50000] Train loss: 0.99925, Valid loss: 1.16767, Elapsed_time: 3156.76630
+Current_accuracy : 32.831, Current_norm_ED  : 0.71
+Best_accuracy    : 32.831, Best_norm_ED     : 0.71
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+47500 SUBANG JAYA         | 450 SSN AA                | 0.0000	False
+INVOICE NO.               | COCE :                    | 0.0000	False
+PLSB-R                    | PLSE-R                    | 0.0004	False
+(PRICE INCLUSIVE OF GST)  | PICE INCLUSIE O GST       | 0.0000	False
+28700 BENTONG             | 28700 EETOR               | 0.0000	False
+--------------------------------------------------------------------------------
+[24000/50000] Train loss: 0.88697, Valid loss: 1.10538, Elapsed_time: 3443.65088
+Current_accuracy : 35.064, Current_norm_ED  : 0.74
+Best_accuracy    : 35.064, Best_norm_ED     : 0.74
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PLEASE COME AGAIN         | PIEAGE COME AOANN         | 0.0000	False
+6.88                      | 6.85                      | 0.0468	False
+14.80                     | 14.80                     | 0.0588	True
+RC22 - 24/288             | RO22  24/288              | 0.0000	False
+0.00                      | 0.00                      | 0.5484	True
+--------------------------------------------------------------------------------
+[26000/50000] Train loss: 0.79213, Valid loss: 0.98533, Elapsed_time: 3729.59758
+Current_accuracy : 37.214, Current_norm_ED  : 0.76
+Best_accuracy    : 37.214, Best_norm_ED     : 0.76
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+10:29                     | 10.25                     | 0.0561	False
+T2 R000243654             | T2 R000243654             | 0.0001	True
+CASH INV NO.: 7817F712    | CN IN NO.: 3R7            | 0.0000	False
+TOTAL                     | TOTAL                     | 0.2584	True
+RETURNABLE                | RE TURNALE                | 0.0000	False
+--------------------------------------------------------------------------------
+[28000/50000] Train loss: 0.70942, Valid loss: 0.93343, Elapsed_time: 4016.55631
+Current_accuracy : 38.163, Current_norm_ED  : 0.77
+Best_accuracy    : 38.163, Best_norm_ED     : 0.77
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PAID AMOUNT :             | REDAMOUNT:                | 0.0000	False
+AMOUNT(RM)                | AMOUNT(RM)                | 0.0187	True
+E.&.0.E.                  | E. .0.:                   | 0.0009	False
+1                         | 1                         | 0.9462	True
+0                         | 0                         | 0.9907	True
+--------------------------------------------------------------------------------
+[30000/50000] Train loss: 0.63917, Valid loss: 0.86083, Elapsed_time: 4302.34055
+Current_accuracy : 40.452, Current_norm_ED  : 0.78
+Best_accuracy    : 40.452, Best_norm_ED     : 0.78
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+NETT TOTAL: $7.00         | NET TOTAL: $7.00          | 0.0007	False
+PAHANG DARUL MAKMUR.      | PAHANG DAN MATMUT         | 0.0000	False
+21.10SR                   | 21.10SR                   | 0.2147	True
+COUPON                    | COUEOM                    | 0.0215	False
+GST ID : 000517095424     | GST I0 : 000517096424     | 0.0000	False
+--------------------------------------------------------------------------------
+[32000/50000] Train loss: 0.57585, Valid loss: 0.86708, Elapsed_time: 4589.34855
+Current_accuracy : 41.039, Current_norm_ED  : 0.79
+Best_accuracy    : 41.039, Best_norm_ED     : 0.79
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+TAX                       | TAX                       | 0.4448	True
+TOTAL                     | TTM                       | 0.0501	False
+13.90                     | 13.90                     | 0.3620	True
+4                         | 4                         | 0.9637	True
+7                         | 7                         | 0.7996	True
+--------------------------------------------------------------------------------
+[34000/50000] Train loss: 0.52347, Valid loss: 0.76207, Elapsed_time: 4876.98231
+Current_accuracy : 43.635, Current_norm_ED  : 0.81
+Best_accuracy    : 43.635, Best_norm_ED     : 0.81
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+1                         | 1                         | 0.9609	True
+GST SUMMARY               | GST SE                    | 0.0635	False
+$1.60                     | $1.60                     | 0.7039	True
+0                         | 0                         | 0.9949	True
+GST ID: 000468594688      | GST IO: 000466594668      | 0.0020	False
+--------------------------------------------------------------------------------
+[36000/50000] Train loss: 0.47404, Valid loss: 0.72754, Elapsed_time: 5164.86433
+Current_accuracy : 45.477, Current_norm_ED  : 0.82
+Best_accuracy    : 45.477, Best_norm_ED     : 0.82
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+FG-Y00265                 | RG-Y00265                 | 0.0318	False
+JALAN SS 15/4B            | JALAN S5 15/48            | 0.0002	False
+LOT 3                     | LOAIR 3                   | 0.0012	False
+HURIXS                    | IRITTE                    | 0.0021	False
+12                        | 12                        | 0.7401	True
+--------------------------------------------------------------------------------
+[38000/50000] Train loss: 0.43455, Valid loss: 0.69669, Elapsed_time: 5453.57548
+Current_accuracy : 46.594, Current_norm_ED  : 0.83
+Best_accuracy    : 46.594, Best_norm_ED     : 0.83
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+: 5533                    | : 5533                    | 0.2973	True
+27.10                     | 27.0                      | 0.2754	False
+GST:                      | GST:                      | 0.8540	True
+RECEIVED ABOVE GOODS IN GOOD ORDER CONDITION. | RESIES DOE GODS N ODY ROE COLTN. | 0.0000	False
+184810                    | 194810                    | 0.0307	False
+--------------------------------------------------------------------------------
+[40000/50000] Train loss: 0.39641, Valid loss: 0.67250, Elapsed_time: 5741.01164
+Current_accuracy : 48.437, Current_norm_ED  : 0.84
+Best_accuracy    : 48.437, Best_norm_ED     : 0.84
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+0                         | 0                         | 0.9969	True
+O.C JUMBO                 | 0UM0                      | 0.0009	False
+TOTAL 6% SUPPLIES (EXCL. GST): | TAL D% SUPPLIES (ECL. GST) | 0.0000	False
+0.38                      | 0.38                      | 0.5177	True
+CHANGE                    | CHANGE                    | 0.3486	True
+--------------------------------------------------------------------------------
+[42000/50000] Train loss: 0.36415, Valid loss: 0.64826, Elapsed_time: 6023.12612
+Current_accuracy : 48.995, Current_norm_ED  : 0.85
+Best_accuracy    : 48.995, Best_norm_ED     : 0.85
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+8.40                      | 8.40                      | 0.4791	True
+WIFI PASSWORD             | UIFI PASSUOR              | 0.0057	False
+PAYMENT                   | PAYMENE                   | 0.0584	False
+3.20                      | 3.20                      | 0.6606	True
+*S                        | *2                        | 0.1737	False
+--------------------------------------------------------------------------------
+[44000/50000] Train loss: 0.33283, Valid loss: 0.62202, Elapsed_time: 6303.59086
+Current_accuracy : 50.391, Current_norm_ED  : 0.85
+Best_accuracy    : 50.391, Best_norm_ED     : 0.85
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+10.00                     | 10.00                     | 0.1562	True
+:                         | 1                         | 0.8480	False
+0                         | 0                         | 0.9949	True
+CASHIER : CASHIER3        | CASHIER : CASHIERS        | 0.0365	False
+ITEM COUNT 2              | ITEM COUNT :              | 0.0159	False
+--------------------------------------------------------------------------------
+[46000/50000] Train loss: 0.30823, Valid loss: 0.62856, Elapsed_time: 6582.39880
+Current_accuracy : 50.307, Current_norm_ED  : 0.86
+Best_accuracy    : 50.391, Best_norm_ED     : 0.86
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+TION                      | TIOM)                     | 0.0044	False
+2                         | 2                         | 0.9045	True
+THANK YOU & COME AGAIN!   | THANK YOU  COME AGAINY    | 0.0001	False
+3.01                      | 3.01                      | 0.7059	True
+SILKEN TOFU 300G          | SILKEN TOFI 3006          | 0.0020	False
+--------------------------------------------------------------------------------
+[48000/50000] Train loss: 0.28201, Valid loss: 0.58741, Elapsed_time: 6861.43765
+Current_accuracy : 52.205, Current_norm_ED  : 0.86
+Best_accuracy    : 52.205, Best_norm_ED     : 0.86
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+8.00                      | 8.00                      | 0.1537	True
+23.40 ZRL                 | 23.40 ZRL                 | 0.1848	True
+EXC                       | EXC                       | 0.6158	True
+AEON TAMAN UNIVERSITI     | AEON TAMAN UWIWERSITT     | 0.0008	False
+WHOLEMEAL                 | AOLEMEAL                  | 0.0102	False
+--------------------------------------------------------------------------------
+[50000/50000] Train loss: 0.26081, Valid loss: 0.57716, Elapsed_time: 7140.41719
+Current_accuracy : 52.792, Current_norm_ED  : 0.87
+Best_accuracy    : 52.792, Best_norm_ED     : 0.87
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+10                        | 10                        | 0.6547	True
+SUBTOTAL:                 | SUBTOTAL:                 | 0.0393	True
+FISHBALL NOODLE           | FISHBALL NOOODLE          | 0.0071	False
+RECEIPT NO. :003-1227834  | RECEIT NO.:003-1227834    | 0.0014	False
+CASH                      | CASH                      | 0.7776	True
+--------------------------------------------------------------------------------
